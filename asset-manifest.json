@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/aproyoga/static/css/main.aa2b63c0.css",
-    "main.js": "/aproyoga/static/js/main.5748cab2.js",
-    "static/media/main1.jpg": "/aproyoga/static/media/main1.00adb487dd46b7a60967.jpg",
-    "index.html": "/aproyoga/index.html",
-    "main.aa2b63c0.css.map": "/aproyoga/static/css/main.aa2b63c0.css.map",
-    "main.5748cab2.js.map": "/aproyoga/static/js/main.5748cab2.js.map"
+    "main.css": "/jg1021/aproyoga/static/css/main.9e20e08e.css",
+    "main.js": "/jg1021/aproyoga/static/js/main.69af711b.js",
+    "static/media/main1.jpg": "/jg1021/aproyoga/static/media/main1.00adb487dd46b7a60967.jpg",
+    "index.html": "/jg1021/aproyoga/index.html",
+    "main.9e20e08e.css.map": "/jg1021/aproyoga/static/css/main.9e20e08e.css.map",
+    "main.69af711b.js.map": "/jg1021/aproyoga/static/js/main.69af711b.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa2b63c0.css",
-    "static/js/main.5748cab2.js"
+    "static/css/main.9e20e08e.css",
+    "static/js/main.69af711b.js"
   ]
 }
