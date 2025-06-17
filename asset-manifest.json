@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aproyoga/static/css/main.aa2b63c0.css",
+    "main.js": "/aproyoga/static/js/main.5748cab2.js",
+    "static/media/main1.jpg": "/aproyoga/static/media/main1.00adb487dd46b7a60967.jpg",
+    "index.html": "/aproyoga/index.html",
+    "main.aa2b63c0.css.map": "/aproyoga/static/css/main.aa2b63c0.css.map",
+    "main.5748cab2.js.map": "/aproyoga/static/js/main.5748cab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa2b63c0.css",
+    "static/js/main.5748cab2.js"
+  ]
+}
